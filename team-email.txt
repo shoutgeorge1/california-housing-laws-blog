@@ -1,20 +1,18 @@
-Subject: California Housing Laws Content Ready - Deploy to MailChimp
+Subject: California Housing Laws Content Ready - Deploy to Vercel
 
 Team,
 
 The California housing laws content is ready to go. Here's what we have:
 
 📧 EMAIL CONTENT:
-- Simple email update: https://your-vercel-link.vercel.app/simple-email.html
-- Gmail-ready text version: https://your-vercel-link.vercel.app/gmail-email.txt
-- Blog article: https://your-vercel-link.vercel.app/california-housing-laws-blog-article.html
+- Simple email update: simple-email.html
+- Blog article: california-housing-laws-blog-article.html
 
 WHAT TO DO:
-1. Upload the content to MailChimp
-2. Use the simple-email.html for the main email template
+1. Deploy to Vercel to get live links
+2. Upload the simple-email.html to MailChimp
 3. Link to the blog article for detailed information
 4. Schedule the email blast
-5. Test the webinar registration link
 
 KEY MESSAGES:
 - New laws take effect January 1, 2026
