@@ -1,0 +1,23 @@
+{
+  "name": "california-housing-laws-update",
+  "version": "1.0.0",
+  "description": "Email templates and blog articles about California housing laws updates",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build step required for static HTML'",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "california",
+    "housing",
+    "laws",
+    "property",
+    "management"
+  ],
+  "author": "California Ordinance Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
