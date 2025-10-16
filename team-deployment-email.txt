@@ -1,0 +1,32 @@
+Subject: California Housing Laws Content Ready - Live Links
+
+Team,
+
+The California housing laws content is ready and deployed. Here are the live links:
+
+📧 EMAIL CONTENT:
+- Clean email (no iframe bullshit): https://california-housing-laws.vercel.app/clean-california-ordinance-email.html
+
+📰 BLOG ARTICLE:
+- Comprehensive housing laws guide: https://california-housing-laws.vercel.app/california-housing-laws-blog-article.html
+
+WHAT TO DO:
+1. Use the clean email link in MailChimp
+2. Link to the blog article for detailed information
+3. Schedule the email blast
+
+KEY MESSAGES:
+- New laws take effect January 1, 2026
+- Working appliances required (AB 628)
+- Social Security protection (AB 246)
+- Electronic security deposits (AB 414)
+- Pricing software compliance (AB 325)
+- Apartment inspections deadline (SB 721)
+- HOA/condo inspections overdue (SB 326)
+
+WEBINAR LINK:
+https://us06web.zoom.us/webinar/register/WN__aDwu2XjSJ2WQIAL5q2CZw#/registration
+
+Everything is live and ready to go. Let me know if you need any help.
+
+George
