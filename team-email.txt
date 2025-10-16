@@ -1,0 +1,33 @@
+Subject: California Housing Laws Content Ready - Deploy to MailChimp
+
+Team,
+
+The California housing laws content is ready to go. Here's what we have:
+
+📧 EMAIL CONTENT:
+- Simple email update: https://your-vercel-link.vercel.app/simple-email.html
+- Gmail-ready text version: https://your-vercel-link.vercel.app/gmail-email.txt
+- Blog article: https://your-vercel-link.vercel.app/california-housing-laws-blog-article.html
+
+WHAT TO DO:
+1. Upload the content to MailChimp
+2. Use the simple-email.html for the main email template
+3. Link to the blog article for detailed information
+4. Schedule the email blast
+5. Test the webinar registration link
+
+KEY MESSAGES:
+- New laws take effect January 1, 2026
+- Working appliances required (AB 628)
+- Social Security protection (AB 246)
+- Electronic security deposits (AB 414)
+- Pricing software compliance (AB 325)
+- Apartment inspections deadline (SB 721)
+- HOA/condo inspections overdue (SB 326)
+
+WEBINAR LINK:
+https://us06web.zoom.us/webinar/register/WN__aDwu2XjSJ2WQIAL5q2CZw#/registration
+
+All content is ready to deploy. Let me know if you need any changes.
+
+George
